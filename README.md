@@ -37,7 +37,7 @@
  <h2 align="center"></h2>
  <p align="center">
   <a href="https://anuphaldar.com">
-    <img src="https://cdn.pfps.gg/banners/7265-sakura-moon.gif"/>
+    <img src="https://i.pinimg.com/originals/81/d2/e5/81d2e5f7453fcc26d4dcf0a92a5b9a50.gif"/>
   </a>
 </p>
 

@@ -6,10 +6,10 @@
   </a>
 </p>
 
- <h2 align="center">Hardware</h2>
+ <h2 align="center">Hardware and 3D</h2>
  <p align="center">
   <a href="">
-    <img src="https://us.v-cdn.net/5022071/uploads/V3B85DTZQS8W/box-onshape-favicon-512-401x.png" width="50" height="50"/>
+    <img src="https://skillicons.dev/icons?i=raspberrypi,arduino"/>
   </a>
 </p>
 

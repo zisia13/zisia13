@@ -29,7 +29,7 @@
 
  <h2 align="center">Future</h2>
  <p align="center">
-  <a href="https://anuphaldar.com">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=vim,rust,kali"/>
   </a>
 </p>

@@ -29,7 +29,7 @@
  <h2 align = "center">Learning</h2>
  <p align = "center">
   <a href = "">
-    <img src = "https://skillicons.dev/icons?i=vim,rust,kali"/>
+    <img src = "https://skillicons.dev/icons?i=vim,rust,kali,crystal"/>
   </a>
 </p>
 

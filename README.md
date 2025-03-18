@@ -26,6 +26,13 @@
   </a>
 </p>
 
+ <h2 align = "center">Learning</h2>
+ <p align = "center">
+  <a href = "">
+    <img src = "https://skillicons.dev/icons?i=vim,rust,kali"/>
+  </a>
+</p>
+
  <h2 align = "center">3D</h2>
  <p align = "center">
   <a href = "">
@@ -40,9 +47,4 @@
   </a>
 </p>
 
- <h2 align = "center">Learning</h2>
- <p align = "center">
-  <a href = "">
-    <img src = "https://skillicons.dev/icons?i=vim,rust,kali"/>
-  </a>
-</p>
+

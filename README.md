@@ -1,42 +1,41 @@
-
- <h2 align="center">Code</h2>
- <p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,bash,powershell"/>
+ <h2 align = "center"></h2>
+ <p align = "center">
+  <a href = "">
+    <img src = "https://giffiles.alphacoders.com/209/209343.gif"/>
   </a>
 </p>
 
- <h2 align="center">Hardware and 3D</h2>
- <p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=raspberrypi,arduino"/>
+ <h2 align = "center">Code</h2>
+ <p align = "center">
+  <a href = "">
+    <img src = "https://skillicons.dev/icons?i=c,cpp,python,bash,powershell"/>
   </a>
 </p>
 
- <h2 align="center">Software</h2>
- <p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=cloudflare,discord,git,github,gitlab,godot,vscode,windows"/>
+ <h2 align = "center">Hardware</h2>
+ <p align = "center">
+  <a href = "">
+    <img src = "https://skillicons.dev/icons?i=raspberrypi,arduino"/>
   </a>
 </p>
 
- <h2 align="center">3D</h2>
- <p align="center">
-  <a href="">
-    <img src="https://us.v-cdn.net/5022071/uploads/V3B85DTZQS8W/box-onshape-favicon-512-401x.png" width="50" height="50"/>
+ <h2 align = "center">Software</h2>
+ <p align = "center">
+  <a href = "">
+    <img src = "https://skillicons.dev/icons?i=cloudflare,discord,git,github,gitlab,godot,vscode,windows"/>
   </a>
 </p>
 
- <h2 align="center">Coming</h2>
- <p align="center">
-  <a href="">
-    <img src="https://skillicons.dev/icons?i=vim,rust,kali"/>
+ <h2 align = "center">3D</h2>
+ <p align = "center">
+  <a href = "">
+    <img src = "https://us.v-cdn.net/5022071/uploads/V3B85DTZQS8W/box-onshape-favicon-512-401x.png" width="50" height="50"/>
   </a>
 </p>
 
- <h2 align="center"></h2>
- <p align="center">
-  <a href="">
-    <img src="https://i.pinimg.com/originals/81/d2/e5/81d2e5f7453fcc26d4dcf0a92a5b9a50.gif"/>
+ <h2 align = "center">Learning</h2>
+ <p align = "center">
+  <a href = "">
+    <img src = "https://skillicons.dev/icons?i=vim,rust,kali"/>
   </a>
 </p>

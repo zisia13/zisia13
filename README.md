@@ -22,7 +22,7 @@
  <h2 align = "center">Software</h2>
  <p align = "center">
   <a href = "">
-    <img src = "https://skillicons.dev/icons?i=cloudflare,discord,git,github,gitlab,godot,vscode,windows"/>
+    <img src = "https://skillicons.dev/icons?i=cloudflare,git,github,gitlab,godot,vscode,windows"/>
   </a>
 </p>
 
@@ -30,6 +30,13 @@
  <p align = "center">
   <a href = "">
     <img src = "https://us.v-cdn.net/5022071/uploads/V3B85DTZQS8W/box-onshape-favicon-512-401x.png" width="50" height="50"/>
+  </a>
+</p>
+
+ <h2 align = "center">Discord: zisia13</h2>
+ <p align = "center">
+  <a href = "">
+    <img src = "https://skillicons.dev/icons?i=discord" width="50" height="50"/>
   </a>
 </p>
 

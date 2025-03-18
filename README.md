@@ -6,10 +6,11 @@
   </a>
 </p>
 
- <h2 align="center">Hardware</h2>
+ <h2 align="center">Hardware and 3D</h2>
  <p align="center">
   <a href="https://anuphaldar.com">
     <img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
+    <img src="https://us.v-cdn.net/5022071/uploads/V3B85DTZQS8W/box-onshape-favicon-512-401x.png" width="50" height="50"/>
   </a>
 </p>
 
@@ -27,9 +28,9 @@
   </a>
 </p>
 
- <h2 align="center">Future</h2>
+ <h2 align="center">Coming</h2>
  <p align="center">
-  <a href="">
+  <a href="https://anuphaldar.com">
     <img src="https://skillicons.dev/icons?i=vim,rust,kali"/>
   </a>
 </p>
@@ -40,4 +41,3 @@
     <img src="https://i.pinimg.com/originals/81/d2/e5/81d2e5f7453fcc26d4dcf0a92a5b9a50.gif"/>
   </a>
 </p>
-

@@ -44,7 +44,7 @@
  <h2 align="center">3D</h2>
  <p align="center">
   <a href="https://anuphaldar.com">
-    <img src="https://media.licdn.com/dms/image/v2/C4E0BAQFjrxyZxdXB2g/company-logo_200_200/company-logo_200_200/0/1630636873462/onshape_logo?e=2147483647&v=beta&t=aITevlGzo9V9MNbW_tFto0KtpUOjG0UKLDzAbp0bRuo"/>
+    <img src="https://us.v-cdn.net/5022071/uploads/V3B85DTZQS8W/box-onshape-favicon-512-401x.png" width="100" height="100"/>
   </a>
 </p>
 

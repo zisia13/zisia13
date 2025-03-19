@@ -40,10 +40,25 @@
   </a>
 </p>
 
- <h2 align = "center">Discord: zisia13</h2>
- <p align = "center">
-  <a href = "">
-    <img src = "https://skillicons.dev/icons?i=discord" width = "50" height = "50"/>
-  </a>
-</p>
+```python
+class Me():
 
+    discord = "zisia13"
+
+    def __init__(self):
+
+        self.name = "zisia13"
+
+    def __str__(self):
+
+        return f"My name is: {self.name}" 
+    
+    @classmethod
+    def contact(cls):
+
+        return cls.discord
+    
+    @staticmethod
+    def get_age() -> int:
+
+        return 19

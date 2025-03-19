@@ -1,31 +1,22 @@
 class Me():
 
-    not finished
+    discord = "zisia13"
 
     def __init__(self):
 
         self.name = "zisia13"
-        self.discord = "zisia13"
-        
-        self.age = 19
 
     def __str__(self):
 
         return f"My name is: {self.name}" 
     
     @classmethod
-    def greet(cls):
+    def contact(cls):
 
-        cls.
-
+        return cls.discord
+    
     @staticmethod
-    def get_accounts():
+    def get_age() -> int:
 
-        riot = "zisia13#0000"
-        riot2 = "sunshine#pdf"
-        epic = "zisia13_"
-        
-        return [riot, riot2, epic]
+        return 19
 
-
-#! ```python

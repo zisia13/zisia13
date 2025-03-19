@@ -51,6 +51,8 @@ class Me():
 
       return 19
 ```
+<span style="color: red;">Dieser Text ist rot.</span>
+<span style="color: blue;">Dieser Text ist blau.</span>
 
 ## **Public Projects**
   - Proto-Tracker

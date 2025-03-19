@@ -51,9 +51,10 @@ class Me():
 
       return 19
 ```
-$\textcolor{red}{Dieser Text ist rot}$
+
 
 ## **Public Projects**
+  - $\textcolor{purple}{purple :D}$
   - Proto-Tracker
   - WindowsSunshine
   - Level-Up

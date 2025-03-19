@@ -40,25 +40,32 @@
   </a>
 </p>
 
-```python
+<div align="center">
+  
+  <pre>
+  <code>
 class Me():
 
     discord = "zisia13"
 
     def __init__(self):
 
-        self.name = "zisia13"
+      self.name = "zisia13"
 
     def __str__(self):
 
-        return f"My name is: {self.name}" 
+      return f"My name is: {self.name}" 
     
     @classmethod
     def contact(cls):
 
-        return cls.discord
+      return cls.discord
     
     @staticmethod
     def get_age() -> int:
 
-        return 19
+      return 19
+  </code>
+  </pre>
+
+</div>

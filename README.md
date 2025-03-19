@@ -53,6 +53,7 @@ class Me():
 ```
 
 ## **Public Projects**
+  - FlashCapDischarger
   - Proto-Tracker
   - WindowsSunshine
   - Level-Up

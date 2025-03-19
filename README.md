@@ -52,10 +52,9 @@ class Me():
       return 19
 ```
 
-## $\textcolor{purple}{This is a text.}$
+## **$\textcolor{purple}{This is a text.}$**
 
 ## **Public Projects**
-  - $\textcolor{purple}{purple :D}$
   - Proto-Tracker
   - WindowsSunshine
   - Level-Up

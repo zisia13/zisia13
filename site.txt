@@ -1,1 +1,8 @@
 https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
+
+ <h2 align = "center">Learning</h2>
+ <p align = "center">
+  <a href = "">
+    <img src = "https://skillicons.dev/icons?i=vim,rust,kali,crystal"/>
+  </a>
+</p>

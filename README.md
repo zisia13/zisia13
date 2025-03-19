@@ -5,17 +5,10 @@
   </a>
 </p>
 
- <h2 align = "center">Code</h2>
+ <h2 align = "center">Code & Hardware</h2>
  <p align = "center">
   <a href = "">
-    <img src = "https://skillicons.dev/icons?i=c,cpp,python,bash,powershell"/>
-  </a>
-</p>
-
- <h2 align = "center">Hardware</h2>
- <p align = "center">
-  <a href = "">
-    <img src = "https://skillicons.dev/icons?i=raspberrypi,arduino"/>
+    <img src = "https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,raspberrypi,arduino"/>
   </a>
 </p>
 
@@ -26,12 +19,7 @@
   </a>
 </p>
 
- <h2 align = "center">Learning</h2>
- <p align = "center">
-  <a href = "">
-    <img src = "https://skillicons.dev/icons?i=vim,rust,kali,crystal"/>
-  </a>
-</p>
+
 
  <h2 align = "center">3D</h2>
  <p align = "center">

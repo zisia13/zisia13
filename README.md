@@ -53,9 +53,24 @@ class Me():
 ```
 
 ## **Public Projects**
-  - Project1
-  - Project2
+  - Proto-Tracker
+  - WindowsSunshine
+  - Level-Up
+  - ImageSliderDeskTop
+  - SilverKey
+  - File-Transformer
+  - Keylogger
+  - Firebase-API
+  - Binary-Clock
+  - LED-Stripe-Case
+  - Team-Generator
+  - Airctrack
+  - RFID-RC522
+  - I2C-EEPROM
+  - WS2812-LEDS
 
 ## **Private Projects**
-  - Project1
-  - Project2
+  - cmd-shell (public soon)
+  - Crypter (my encryption)
+  - DeskTopWidgets V1/V2
+  - ValorantTrueVision

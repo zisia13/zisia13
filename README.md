@@ -51,9 +51,7 @@ class Me():
 
       return 19
 ```
-```bash
-echo -e "\e[31mDieser Text ist rot.\e[0m"
-```
+$\textcolor{red}{Dieser Text ist rot}$
 
 ## **Public Projects**
   - Proto-Tracker

@@ -40,10 +40,7 @@
   </a>
 </p>
 
-<div align="center">
-  
-  <pre>
-  <code>
+```python
 class Me():
 
     discord = "zisia13"
@@ -65,7 +62,3 @@ class Me():
     def get_age() -> int:
 
       return 19
-  </code>
-  </pre>
-
-</div>

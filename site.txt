@@ -8,3 +8,5 @@ https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list
 </p>
 
 LaTeX
+
+## **$\textcolor{purple}{This is a text.}$**

@@ -52,8 +52,6 @@ class Me():
       return 19
 ```
 
-## **$\textcolor{purple}{This is a text.}$**
-
 ## **Public Projects**
   - Proto-Tracker
   - WindowsSunshine

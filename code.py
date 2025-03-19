@@ -6,9 +6,7 @@ class Me():
 
         self.name = "zisia13"
         self.discord = "zisia13"
-        self.riot = "zisia13#0000"
-        self.riot2 = "sunshine#pdf"
-        self.epic = "zisia13_"
+        
         self.age = 19
 
     def __str__(self):
@@ -16,8 +14,18 @@ class Me():
         return f"My name is: {self.name}" 
     
     @classmethod
-    def greet(cls) -> str:
+    def greet(cls):
 
         cls.
 
-    def get_accounts(self)
+    @staticmethod
+    def get_accounts():
+
+        riot = "zisia13#0000"
+        riot2 = "sunshine#pdf"
+        epic = "zisia13_"
+        
+        return [riot, riot2, epic]
+
+
+#! ```python

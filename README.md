@@ -68,6 +68,8 @@ class Me():
   - I2C-EEPROM
   - WS2812-LEDS
 
+  - Spotify
+
 ## **Private Projects**
   - cmd-shell (public soon)
   - Crypter (my encryption)

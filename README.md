@@ -53,8 +53,6 @@ class Me():
 ```
 
 ## **Public Projects**
-  - FlashCapDischarger
-  - Proto-Tracker
   - WindowsSunshine
   - Level-Up
   - ImageSliderDeskTop
@@ -75,3 +73,5 @@ class Me():
   - Crypter (my encryption)
   - DeskTopWidgets V1/V2
   - ValorantTrueVision
+  - FlashCapDischarger
+  - Proto-Tracker

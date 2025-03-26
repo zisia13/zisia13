@@ -69,6 +69,7 @@ class Me():
   - WS2812-LEDS
 
   - Spotify
+  - PictureDownloader
 
 ## **Private Projects**
   - cmd-shell (public soon)

@@ -15,7 +15,7 @@
  <h2 align = "center">Software</h2>
  <p align = "center">
   <a href = "">
-    <img src = "https://skillicons.dev/icons?i=cloudflare,git,github,gitlab,godot,vscode,windows"/>
+    <img src = "https://skillicons.dev/icons?i=cloudflare,git,github,gitlab,godot,vscode,windows,firebase"/>
   </a>
 </p>
 
@@ -53,8 +53,6 @@ class Me():
 ```
 
 ## **Public Projects**
-  - FlashCapDischarger
-  - Proto-Tracker
   - WindowsSunshine
   - Level-Up
   - ImageSliderDeskTop
@@ -71,9 +69,12 @@ class Me():
   - WS2812-LEDS
 
   - Spotify
+  - PictureDownloader
 
 ## **Private Projects**
   - cmd-shell (public soon)
   - Crypter (my encryption)
   - DeskTopWidgets V1/V2
   - ValorantTrueVision
+  - FlashCapDischarger
+  - Proto-Tracker

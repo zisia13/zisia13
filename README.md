@@ -53,6 +53,7 @@ class Me():
 ```
 
 ## **Public Projects**
+  - ZCLI
   - WindowsSunshine
   - Level-Up
   - ImageSliderDeskTop

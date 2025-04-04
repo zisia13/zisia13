@@ -9,7 +9,7 @@
  <h2 align = "center">Software</h2>
  <p align = "center">
   <a href = "">
-    <img src = "https://skillicons.dev/icons?i=cloudflare,git,github,gitlab,godot,vscode,windows,firebase"/>
+    <img src = "https://skillicons.dev/icons?i=cloudflare,git,github,gitlab,godot,vscode,windows,firebase,mysql"/>
   </a>
 </p>
 

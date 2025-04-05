@@ -79,3 +79,4 @@ class Me():
   - ValorantTrueVision
   - FlashCapDischarger
   - Proto-Tracker
+  - StreamDeck (not uploaded)

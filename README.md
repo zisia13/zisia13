@@ -1,9 +1,3 @@
- <h2 align = "center"></h2>
- <p align = "center">
-  <a href = "">
-    <img src = "https://giffiles.alphacoders.com/209/209343.gif"/>
-  </a>
-</p>
 
  <h2 align = "center">Code & Hardware</h2>
  <p align = "center">
@@ -15,11 +9,9 @@
  <h2 align = "center">Software</h2>
  <p align = "center">
   <a href = "">
-    <img src = "https://skillicons.dev/icons?i=cloudflare,git,github,gitlab,godot,vscode,windows,firebase"/>
+    <img src = "https://skillicons.dev/icons?i=cloudflare,git,github,gitlab,godot,vscode,windows,firebase,mysql"/>
   </a>
 </p>
-
-
 
  <h2 align = "center">3D</h2>
  <p align = "center">
@@ -51,6 +43,12 @@ class Me():
 
         return 19
 ```
+ <h2 align = "center"></h2>
+ <p align = "center">
+  <a href = "">
+    <img src = "https://giffiles.alphacoders.com/209/209343.gif"/>
+  </a>
+</p>
 
 ## **Public Projects**
   - ZCLI
@@ -69,8 +67,8 @@ class Me():
   - I2C-EEPROM
   - WS2812-LEDS
 
-  - Spotify
-  - PictureDownloader
+  - _Spotify
+  - _PictureDownloader
 
 ## **Private Projects**
   - cmd-shell (public soon)

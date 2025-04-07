@@ -69,6 +69,7 @@ class Me():
 
   - _Spotify
   - _PictureDownloader
+  - YTDownloader
 
 ## **Private Projects**
   - cmd-shell (public soon)

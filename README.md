@@ -51,6 +51,7 @@ class Me():
 </p>
 
 ## **Public Projects**
+  - zModule
   - ZCLI
   - WindowsSunshine
   - Level-Up

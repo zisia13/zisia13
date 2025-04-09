@@ -51,7 +51,6 @@ class Me():
 </p>
 
 ## **Public Projects**
-  - zModule
   - ZCLI
   - WindowsSunshine
   - Level-Up
@@ -80,3 +79,4 @@ class Me():
   - FlashCapDischarger
   - Proto-Tracker
   - StreamDeck (not uploaded)
+  - zModule

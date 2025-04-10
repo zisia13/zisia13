@@ -54,7 +54,6 @@ class Me():
 
   - TODO: ReactionClock
 
-  - zModule
   - ZCLI
   - WindowsSunshine
   - Level-Up
@@ -83,3 +82,4 @@ class Me():
   - FlashCapDischarger
   - Proto-Tracker
   - StreamDeck (not uploaded)
+  - zModule

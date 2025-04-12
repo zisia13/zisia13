@@ -54,6 +54,7 @@ class Me():
 
   - TODO: ReactionClock
 
+  - Bingo
   - ZCLI
   - WindowsSunshine
   - Level-Up

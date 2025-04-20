@@ -71,8 +71,8 @@ class Me():
   - I2C-EEPROM
   - WS2812-LEDS
 
-  - _Spotify
-  - _PictureDownloader
+  - Spotify
+  - PictureDownloader
   - YTDownloader
 
 ## **Private Projects**

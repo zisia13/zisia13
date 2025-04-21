@@ -61,6 +61,6 @@
 
 <h2 align = "center">Stats</h2>
 <p align="center">
-    <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=zisia13&hide_border=true&theme=dark"/>
-    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zisia13&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
+  <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=zisia13&hide_border=true&theme=dark&bg_color=282033"/>
+  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zisia13&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>
 </p>

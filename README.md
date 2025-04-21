@@ -33,7 +33,7 @@
   <br/>
   <p align="center">
     <a href="https://github.com/zisia13/I2C-EEPROM">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=I2C-EEPROM&theme=react&bg_color=800080&title_color=800080&icon_color=800080&hide_border=true&show_icons=false" />
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=I2C-EEPROM&theme=react&bg_color=141019&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
     </a>
   </p>
 </details>

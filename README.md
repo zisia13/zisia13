@@ -1,6 +1,6 @@
 
  <h2 align = "left">Code & Hardware</h2>
- <p align = "center">
+ <p align = "left">
   <a href = "">
     <img src = "https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,raspberrypi,arduino"/>
   </a>

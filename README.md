@@ -1,6 +1,6 @@
 
- <h2 align = "left">Code & Hardware</h2>
- <p align = "left">
+ <h2 align = "center">Code & Hardware</h2>
+ <p align = "center">
   <a href = "">
     <img src = "https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,raspberrypi,arduino"/>
   </a>
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-## **Public Projects**
+<h2 align = "center">My Projects</h2>
 <details>
   <summary><b>💻 &nbsp;Hardware</b></summary>
   <br/>
@@ -41,7 +41,7 @@
   - StreamDeck (not uploaded)
   - zModule
 
-## ⚡ GitHub Stats
+<h2 align = "center">Stats</h2>
 <p align="center">
     <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=zisia13&hide_border=true&theme=dark"/>
     <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zisia13&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>

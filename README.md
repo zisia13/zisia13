@@ -20,16 +20,18 @@
   </a>
 </p>
 
-<h2 align = "center">My Projects</h2>
-<details>
-  <summary><b>💻 &nbsp;Hardware</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/zisia13/I2C-EEPROM">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=I2C-EEPROM&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
-    </a>
-  </p>
-</details>
+<h2 align="center">My Projects</h2>
+<div style="display: flex; justify-content: center;">
+  <details>
+    <summary><b>💻 &nbsp;Hardware</b></summary>
+    <br/>
+    <p align="center">
+      <a href="https://github.com/zisia13/I2C-EEPROM">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=I2C-EEPROM&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
+      </a>
+    </p>
+  </details>
+</div>
 
 ## **Private Projects**
   - cmd-shell (public soon)

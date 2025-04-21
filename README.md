@@ -28,29 +28,15 @@
 </p>
 
 ## **Public Projects**
-
-  - TODO: ReactionClock 
-
-  - Bingo
-  - ZCLI
-  - WindowsSunshine
-  - Level-Up
-  - ImageSliderDeskTop
-  - SilverKey
-  - File-Transformer
-  - Keylogger
-  - Firebase-API
-  - Binary-Clock
-  - LED-Stripe-Case
-  - Team-Generator
-  - Airctrack
-  - RFID-RC522
-  - I2C-EEPROM
-  - WS2812-LEDS
-
-  - Spotify
-  - PictureDownloader
-  - YTDownloader
+<details>
+  <summary><b>💻 &nbsp;Hardware</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/zisia13/I2C-EEPROM">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=I2C-EEPROM&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
+  </p>
+</details>
 
 ## **Private Projects**
   - cmd-shell (public soon)
@@ -63,7 +49,6 @@
   - zModule
 
 ## ⚡ GitHub Stats
-
 <p align="center">
     <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=zisia13&hide_border=true&theme=dark"/>
     <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zisia13&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/>

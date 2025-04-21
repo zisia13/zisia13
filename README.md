@@ -20,20 +20,13 @@
   </a>
 </p>
 
- <h2 align = "center"></h2>
- <p align = "center">
-  <a href = "">
-    <img src = "https://giffiles.alphacoders.com/209/209343.gif"/>
-  </a>
-</p>
-
 ## **Public Projects**
 <details>
   <summary><b>💻 &nbsp;Hardware</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/zisia13/I2C-EEPROM">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=I2C-EEPROM&theme=react&bg_color=3d304d&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=I2C-EEPROM&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
     </a>
   </p>
 </details>

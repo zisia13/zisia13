@@ -31,8 +31,14 @@
         <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=I2C-EEPROM&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
       </a>
     </p>
+    <br/>
+    <p align="center">
+      <a href="https://github.com/zisia13/I2C-EEPROM">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=I2C-EEPROM&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
+      </a>
+    </p>
   </details>
-  
+
   <details style="display: inline-block; text-align: left; margin: 0 auto;">
     <summary><b>💻 &nbsp;Hardware</b></summary>
     <br/>

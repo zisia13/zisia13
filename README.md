@@ -21,18 +21,18 @@
 </p>
 
 <h2 align="center">My Projects</h2>
-
-<div style="display: flex; justify-content: center;">
-  <details>
-    <summary><b>💻 &nbsp;Hardware</b></summary>
+<div align="center">
+  <details style="display: inline-block; text-align: left; margin: 0 auto;">
+    <summary><b>- [ ] Hardware</b></summary>
     <br/>
-    <p align="center">
-      <a href="https://github.com/zisia13/I2C-EEPROM">
-        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=I2C-EEPROM&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
-      </a>
-    </p>
+    <div align="center">
+      <p>- [ ] I2C-EEPROM<br/><small>read and write data to EEPROM with an Arduino</small></p>
+      <p>- C++</p>
+    </div>
   </details>
 </div>
+<hr/>
+<h3 align="center">Private Projects</h3>
 
 ## **Private Projects**
   - cmd-shell (public soon)

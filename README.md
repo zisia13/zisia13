@@ -22,7 +22,7 @@
 
 <h2 align="center">My Projects</h2>
 
-<div style="display: inline-block; text-align: left; margin: 0 auto;">
+<div style="display: inline-block; text-align: center; margin: 0 auto;">
   <details>
     <summary><b>💻 &nbsp;Hardware</b></summary>
     <br/>

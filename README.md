@@ -65,6 +65,16 @@
         <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=WS2812-LEDS&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
       </a>
     </p>
+    <p align="center">
+      <a href="https://github.com/zisia13/Level-Up">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=Level-Up&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/zisia13/LED-Stripe-Case">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=LED-Stripe-Case&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
+      </a>
+    </p>
   </details>
 
   <!-- ____MODULES____ -->
@@ -72,8 +82,18 @@
     <summary><b>📦 &nbsp;Modules</b></summary>
     <br/>
     <p align="center">
-      <a href="">
-        <img height="120px" src="" />
+      <a href="https://github.com/zisia13/ZCLI">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=ZCLI&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/zisia13/File-Transformer">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=File-Transformer&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/zisia13/Keylogger">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=Keylogger&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
       </a>
     </p>
   </details>
@@ -84,10 +104,19 @@
     <br/>
     <p align="center">
       <a href="https://github.com/zisia13/I2C-EEPROM">
-        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=zInstagram&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=true" />
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=zInstagram&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
       </a>
     </p>
-    
+    <p align="center">
+      <a href="https://github.com/zisia13/Firebase-API">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=Firebase-API&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/zisia13/Airctrack">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=Airctrack&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
+      </a>
+    </p>
   </details>
 
   <!-- ____SOFTWARE____ -->
@@ -95,8 +124,48 @@
     <summary><b>💻 &nbsp;Software</b></summary>
     <br/>
     <p align="center">
-      <a href="">
-        <img height="120px" src="" />
+      <a href="https://github.com/zisia13/AimTrainer">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=AimTrainer&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/zisia13/Bingo">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=Bingo&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/zisia13/YT-Downloader">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=YT-Downloader&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/zisia13/PictureDownloader">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=PictureDownloader&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/zisia13/WindowsSunshine">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=WindowsSunshine&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/zisia13/ImageSliderDeskTop">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=ImageSliderDeskTop&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/zisia13/SilverKey">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=SilverKey&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/zisia13/OneWayChat">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=OneWayChat&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/zisia13/Team-Generator">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=Team-Generator&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
       </a>
     </p>
   </details>

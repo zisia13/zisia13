@@ -67,7 +67,7 @@
   </details>
 
   <details style="display: inline-block; text-align: left; margin: 0 auto;">
-    <summary><b>💻 &nbsp;TODO</b></summary>
+    <summary><b>EMOJI &nbsp;TODO</b></summary>
     <br/>
     <p align="center">
       <a href="">

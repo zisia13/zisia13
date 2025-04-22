@@ -42,7 +42,8 @@
 <h2 align="center">My Projects</h2>
 <div align="center">
   <details style="display: inline-block; text-align: left; margin: 0 auto;">
-    <summary><b>💻 &nbsp;Hardware</b></summary>
+    <!-- ____HARDWARE____ -->
+    <summary><b>🔋 &nbsp;Hardware</b></summary>
     <br/>
     <p align="center">
       <a href="https://github.com/zisia13/Binary-Clock">
@@ -66,8 +67,9 @@
     </p>
   </details>
 
+  <!-- ____MODULES____ -->
   <details style="display: inline-block; text-align: left; margin: 0 auto;">
-    <summary><b>EMOJI &nbsp;TODO</b></summary>
+    <summary><b>📦 &nbsp;Modules</b></summary>
     <br/>
     <p align="center">
       <a href="">
@@ -75,7 +77,32 @@
       </a>
     </p>
   </details>
+
+  <!-- ____API____ -->
+  <details style="display: inline-block; text-align: left; margin: 0 auto;">
+    <summary><b>🌐 &nbsp;API</b></summary>
+    <br/>
+    <p align="center">
+      <a href="https://github.com/zisia13/I2C-EEPROM">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=zInstagram&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=true" />
+      </a>
+    </p>
+    
+  </details>
+
+  <!-- ____SOFTWARE____ -->
+  <details style="display: inline-block; text-align: left; margin: 0 auto;">
+    <summary><b>💻 &nbsp;Software</b></summary>
+    <br/>
+    <p align="center">
+      <a href="">
+        <img height="120px" src="" />
+      </a>
+    </p>
+  </details>
+
 </div>
+
 
 <!-- 
 -----------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,4 +1,8 @@
-
+<!-- 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+                                                            Code and Hardware Skills
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-->
  <h2 align = "center">Code & Hardware</h2>
  <p align = "center">
   <a href = "">
@@ -6,6 +10,11 @@
   </a>
 </p>
 
+<!-- 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+                                                            Software Skills
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-->
  <h2 align = "center">Software</h2>
  <p align = "center">
   <a href = "">
@@ -13,6 +22,11 @@
   </a>
 </p>
 
+<!-- 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+                                                            3D Skills
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-->
  <h2 align = "center">3D</h2>
  <p align = "center">
   <a href = "">
@@ -20,35 +34,54 @@
   </a>
 </p>
 
+<!-- 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+                                                            My Project Dropdowns
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-->
 <h2 align="center">My Projects</h2>
-
 <div align="center">
   <details style="display: inline-block; text-align: left; margin: 0 auto;">
     <summary><b>💻 &nbsp;Hardware</b></summary>
     <br/>
     <p align="center">
-      <a href="https://github.com/zisia13/I2C-EEPROM">
-        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=I2C-EEPROM&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
+      <a href="https://github.com/zisia13/Binary-Clock">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=Binary-Clock&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/zisia13/RFID-RC522">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=RFID-RC522&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
       </a>
     </p>
     <p align="center">
       <a href="https://github.com/zisia13/I2C-EEPROM">
         <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=I2C-EEPROM&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/zisia13/WS2812-LEDS">
+        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=WS2812-LEDS&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
       </a>
     </p>
   </details>
 
   <details style="display: inline-block; text-align: left; margin: 0 auto;">
-    <summary><b>💻 &nbsp;Hardware</b></summary>
+    <summary><b>💻 &nbsp;TODO</b></summary>
     <br/>
     <p align="center">
-      <a href="https://github.com/zisia13/I2C-EEPROM">
-        <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=zisia13&repo=I2C-EEPROM&theme=react&bg_color=282033&title_color=ffffff&icon_color=655080&hide_border=true&show_icons=false" />
+      <a href="">
+        <img height="120px" src="" />
       </a>
     </p>
   </details>
 </div>
 
+<!-- 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+                                                            Private Projects
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-->
 <h2 align="center">Private Projects</h2>
 <table align="center">
   <tr><td>- cmd-shell (public soon)</td></tr>
@@ -61,6 +94,11 @@
   <tr><td>- zModule</td></tr>
 </table>
 
+<!-- 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+                                                            Stats
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-->
 <h2 align = "center">Stats</h2>
 <p align="center">
   <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=zisia13&hide_border=true&theme=react"/>

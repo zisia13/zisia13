@@ -49,17 +49,17 @@
   </details>
 </div>
 
-<h2 style="text-align: center;">Private Projects</h2>
-<ul style="text-align: center; list-style-position: inside; padding-left: 0;">
-  <li>cmd-shell (public soon)</li>
-  <li>Crypter (my encryption)</li>
-  <li>DeskTopWidgets V1/V2</li>
-  <li>ValorantTrueVision</li>
-  <li>FlashCapDischarger</li>
-  <li>Proto-Tracker</li>
-  <li>StreamDeck</li>
-  <li>zModule</li>
-</ul>
+<h2 align="center">Private Projects</h2>
+<div align="center">
+  - cmd-shell (public soon)
+  - Crypter (my encryption)
+  - DeskTopWidgets V1/V2
+  - ValorantTrueVision
+  - FlashCapDischarger
+  - Proto-Tracker
+  - StreamDeck (not uploaded)
+  - zModule
+</div>
 
 <h2 align = "center">Stats</h2>
 <p align="center">

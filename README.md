@@ -57,7 +57,7 @@
   <li>ValorantTrueVision</li>
   <li>FlashCapDischarger</li>
   <li>Proto-Tracker</li>
-  <li>StreamDeck (not uploaded)</li>
+  <li>StreamDeck</li>
   <li>zModule</li>
 </ul>
 

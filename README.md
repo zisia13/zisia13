@@ -170,7 +170,6 @@
     </p>
   </details>
 
-</div>
 
 
 <!-- 
@@ -178,6 +177,24 @@
                                                             Private Projects
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 -->
+
+  <details style="display: inline-block; text-align: left; margin: 0 auto;">
+    <summary><b>🔒 &nbsp;Private Projects</b></summary>
+    <br/>
+    <table align="center">
+      <tr><td>- cmd-shell (public soon)</td></tr>
+      <tr><td>- Crypter (my encryption)</td></tr>
+      <tr><td>- DeskTopWidgets V1/V2</td></tr>
+      <tr><td>- ValorantTrueVision</td></tr>
+      <tr><td>- FlashCapDischarger</td></tr>
+      <tr><td>- Proto-Tracker</td></tr>
+      <tr><td>- StreamDeck (not uploaded)</td></tr>
+      <tr><td>- zModule</td></tr>
+    </table>
+  </details>
+</div>
+
+<!-- 
 <h2 align="center">Private Projects</h2>
 <table align="center">
   <tr><td>- cmd-shell (public soon)</td></tr>
@@ -189,6 +206,7 @@
   <tr><td>- StreamDeck (not uploaded)</td></tr>
   <tr><td>- zModule</td></tr>
 </table>
+-->
 
 <!-- 
 -----------------------------------------------------------------------------------------------------------------------------------------------------

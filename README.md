@@ -177,7 +177,6 @@
                                                             Private Projects
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 -->
-
   <details style="display: inline-block; text-align: left; margin: 0 auto;">
     <summary><b>🔒 &nbsp;Private Projects</b></summary>
     <br/>

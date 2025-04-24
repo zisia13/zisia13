@@ -3,10 +3,22 @@
                                                             Code and Hardware Skills
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 -->
- <h2 align = "center">Code & Hardware</h2>
+ <h2 align = "center">🎓My Skills</h2>
  <p align = "center">
   <a href = "">
-    <img src = "https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,raspberrypi,arduino"/>
+    <img src = "https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,raspberrypi,arduino,firebase,mysql"/>
+  </a>
+</p>
+
+<!-- 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+                                                            Code and Hardware Skills
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-->
+ <h2 align = "center">🎯Learning</h2>
+ <p align = "center">
+  <a href = "">
+    <img src = "https://skillicons.dev/icons?i=html,css,js,kali,django"/>
   </a>
 </p>
 
@@ -15,10 +27,10 @@
                                                             Software Skills
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 -->
- <h2 align = "center">Software</h2>
+ <h2 align = "center">📚Other</h2>
  <p align = "center">
   <a href = "">
-    <img src = "https://skillicons.dev/icons?i=cloudflare,git,github,gitlab,godot,vscode,windows,firebase,mysql"/>
+    <img src = "https://skillicons.dev/icons?i=cloudflare,git,github,gitlab,godot,vscode,windows"/>
   </a>
 </p>
 
@@ -39,7 +51,7 @@
                                                             My Project Dropdowns
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 -->
-<h2 align="center">My Projects</h2>
+<h2 align="center">💡My Projects</h2>
 <div align="center">
   <details style="display: inline-block; text-align: left; margin: 0 auto;">
     <!-- ____HARDWARE____ -->
@@ -212,7 +224,7 @@
                                                             Stats
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 -->
-<h2 align = "center">Stats</h2>
+<h2 align = "center">🚀Stats</h2>
 <p align="center">
   <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=zisia13&hide_border=true&theme=react"/>
   <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zisia13&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=react"/>

@@ -18,7 +18,7 @@
  <h2 align = "center">🎯Learning</h2>
  <p align = "center">
   <a href = "">
-    <img src = "https://skillicons.dev/icons?i=html,css,js,kali,django"/>
+    <img src = "https://skillicons.dev/icons?i=html,css,kali,js,django,cloudflare,nginx,nodejs"/>
   </a>
 </p>
 
@@ -30,7 +30,7 @@
  <h2 align = "center">📚Other</h2>
  <p align = "center">
   <a href = "">
-    <img src = "https://skillicons.dev/icons?i=cloudflare,git,github,gitlab,godot,vscode,windows"/>
+    <img src = "https://skillicons.dev/icons?i=git,github,gitlab,godot,vscode,windows,discord"/>
   </a>
 </p>
 

@@ -180,14 +180,12 @@
 -->
 <h2 align="center">Private Projects</h2>
 <table align="center">
-  <tr><td>- cmd-shell (public soon)</td></tr>
   <tr><td>- Crypter (my encryption)</td></tr>
   <tr><td>- DeskTopWidgets V1/V2</td></tr>
   <tr><td>- ValorantTrueVision</td></tr>
   <tr><td>- FlashCapDischarger</td></tr>
   <tr><td>- Proto-Tracker</td></tr>
   <tr><td>- StreamDeck (not uploaded)</td></tr>
-  <tr><td>- zModule</td></tr>
 </table>
 
 <!-- 

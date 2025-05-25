@@ -3,10 +3,22 @@
                                                             Code and Hardware Skills
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 -->
- <h2 align = "center">Code & Hardware</h2>
+ <h2 align = "center">🎓My Skills</h2>
  <p align = "center">
   <a href = "">
-    <img src = "https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,raspberrypi,arduino"/>
+    <img src = "https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,raspberrypi,arduino,firebase,mysql"/>
+  </a>
+</p>
+
+<!-- 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+                                                            Code and Hardware Skills
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+-->
+ <h2 align = "center">🎯Learning</h2>
+ <p align = "center">
+  <a href = "">
+    <img src = "https://skillicons.dev/icons?i=html,css,kali,js,django,cloudflare,nginx,nodejs"/>
   </a>
 </p>
 
@@ -15,22 +27,26 @@
                                                             Software Skills
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 -->
- <h2 align = "center">Software</h2>
+
+<!-- 
+ <h2 align = "center">📚Other</h2>
  <p align = "center">
   <a href = "">
-    <img src = "https://skillicons.dev/icons?i=cloudflare,git,github,gitlab,godot,vscode,windows,firebase,mysql"/>
+    <img src = "https://skillicons.dev/icons?i=git,github,gitlab,godot,vscode,windows,discord"/>
   </a>
 </p>
+-->
 
 <!-- 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
                                                             3D Skills
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 -->
- <h2 align = "center">3D</h2>
+ <h2 align = "center">Design & Hardware Skills</h2>
  <p align = "center">
   <a href = "">
-    <img src = "https://us.v-cdn.net/5022071/uploads/V3B85DTZQS8W/box-onshape-favicon-512-401x.png" width = "50" height = "50"/>
+    <img src = "https://us.v-cdn.net/5022071/uploads/V3B85DTZQS8W/box-onshape-favicon-512-401x.png" width = "" height = "50"/>
+    <img src = "https://cdn.sanity.io/images/0hdzqj39/production/3c6747b52143a9a0725c0901be3a9101f5d42cbb-288x288.png" width = "50" height = "50"/>
   </a>
 </p>
 
@@ -39,7 +55,7 @@
                                                             My Project Dropdowns
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 -->
-<h2 align="center">My Projects</h2>
+<h2 align="center">💡My Projects</h2>
 <div align="center">
   <details style="display: inline-block; text-align: left; margin: 0 auto;">
     <!-- ____HARDWARE____ -->
@@ -170,7 +186,6 @@
     </p>
   </details>
 
-</div>
 
 
 <!-- 
@@ -178,6 +193,23 @@
                                                             Private Projects
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 -->
+  <details style="display: inline-block; text-align: left; margin: 0 auto;">
+    <summary><b>🔒 &nbsp;Private Projects</b></summary>
+    <br/>
+    <table align="center">
+      <tr><td>- cmd-shell (public soon)</td></tr>
+      <tr><td>- Crypter (my encryption)</td></tr>
+      <tr><td>- DeskTopWidgets V1/V2</td></tr>
+      <tr><td>- ValorantTrueVision</td></tr>
+      <tr><td>- FlashCapDischarger</td></tr>
+      <tr><td>- Proto-Tracker</td></tr>
+      <tr><td>- StreamDeck (not uploaded)</td></tr>
+      <tr><td>- zModule</td></tr>
+    </table>
+  </details>
+</div>
+
+<!-- 
 <h2 align="center">Private Projects</h2>
 <table align="center">
   <tr><td>- Crypter (my encryption)</td></tr>
@@ -187,13 +219,14 @@
   <tr><td>- Proto-Tracker</td></tr>
   <tr><td>- StreamDeck (not uploaded)</td></tr>
 </table>
+-->
 
 <!-- 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
                                                             Stats
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 -->
-<h2 align = "center">Stats</h2>
+<h2 align = "center">🚀Stats</h2>
 <p align="center">
   <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=zisia13&hide_border=true&theme=react"/>
   <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zisia13&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=react"/>

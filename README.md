@@ -197,7 +197,8 @@
                                                             Private Projects
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 -->
-  <details style="display: inline-block; text-align: left; margin: 0 auto;">
+<!-- 
+  <details style="display: inline-block; text-align: center; margin: 0 auto;">
     <summary><b>🔒 &nbsp;Private Projects</b></summary>
     <br/>
     <table align="center">
@@ -212,6 +213,7 @@
     </table>
   </details>
 </div>
+-->
 
 <!-- 
 <h2 align="center">Private Projects</h2>

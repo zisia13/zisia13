@@ -30,7 +30,7 @@
  <h2 align = "center">🚀Future</h2>
 <p align = "center">
   <a href = "">
-    <img src = "https://skillicons.dev/icons?i=selenium,docker,Arch,regex"/>
+    <img src = "https://skillicons.dev/icons?i=selenium,docker,arch,regex"/>
   </a>
 </p>
 

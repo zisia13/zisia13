@@ -3,7 +3,7 @@
                                                             Code and Hardware Skills
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 -->
- <h2 align = "center">🎓My Skills</h2>
+ <h2 align = "center">🎓Stack</h2>
 <p align = "center">
   <a href = "">
     <img src = "https://skillicons.dev/icons?i=c,python,bash,powershell,raspberrypi,arduino,firebase,mysql"/>

@@ -6,7 +6,7 @@
  <h2 align = "center">🎓My Skills</h2>
 <p align = "center">
   <a href = "">
-    <img src = "https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,raspberrypi,arduino,firebase,mysql"/>
+    <img src = "https://skillicons.dev/icons?i=c,python,bash,powershell,raspberrypi,arduino,firebase,mysql"/>
   </a>
 </p>
 
@@ -18,7 +18,7 @@
  <h2 align = "center">🎯Learning</h2>
 <p align = "center">
   <a href = "">
-    <img src = "https://skillicons.dev/icons?i=html,css,kali,js,django,cloudflare,nginx,nodejs"/>
+    <img src = "https://skillicons.dev/icons?i=cpp,html,css,kali,js,django,cloudflare,nginx,nodejs"/>
   </a>
 </p>
 

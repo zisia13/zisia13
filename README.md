@@ -18,10 +18,7 @@
  <h2 align = "center">🎯Learning</h2>
 <p align = "center">
   <a href = "">
-<<<<<<< HEAD
-    <img src = "https://skillicons.dev/icons?i=html,css,kali,js,django,cloudflare,nginx,nodejs,figma"/>
-=======
-    <img src = "https://skillicons.dev/icons?i=cpp,html,css,kali,js,django,cloudflare,nginx,nodejs"/>
+    <img src = "https://skillicons.dev/icons?i=cpp,html,css,kali,js,django,cloudflare,nginx,nodejs,figma"/>
   </a>
 </p>
 
@@ -34,7 +31,6 @@
 <p align = "center">
   <a href = "">
     <img src = "https://skillicons.dev/icons?i=selenium,docker,arch,regex"/>
->>>>>>> 31d6664c515a5f40018f468564436d338cefe7cd
   </a>
 </p>
 

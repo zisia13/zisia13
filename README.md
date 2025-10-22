@@ -17,4 +17,5 @@
 
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/690956536121393243?theme=light&bg=809ecf)](https://discord.com/users/690956536121393243)
+[![Discord](https://img.shields.io/badge/Discord-username%236789-black?logo=discord)](https://discord.com/users/690956536121393243)
+

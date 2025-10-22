@@ -17,6 +17,6 @@
 
 
 
-[![Discord](https://img.shields.io/badge/Discord-zisia13%230000-black?logo=discord)](https://discord.com/users/690956536121393243)
+[![Discord](https://img.shields.io/badge/Discord-zisia13%230000-black?style=for-the-badge&logo=discord)](https://discord.com/users/690956536121393243)
 
-
+[![Website](https://img.shields.io/badge/Website-MCDB-black?style=for-the-badge&logo=Arc)](https://mcdb.zisia13.com)

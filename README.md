@@ -17,4 +17,4 @@
 
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/<690956536121393243>?theme=light&bg=809ecf)](https://discord.com/users/<690956536121393243>)
+[![Discord Presence](https://lanyard.cnrad.dev/api/690956536121393243?theme=light&bg=809ecf)](https://discord.com/users/690956536121393243)

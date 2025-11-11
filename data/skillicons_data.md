@@ -18,7 +18,7 @@
  <h2 align = "center">🎯Learning</h2>
 <p align = "center">
   <a href = "">
-    <img src = "https://skillicons.dev/icons?i=cpp,html,css,kali,js,django,cloudflare,nginx,nodejs,figma"/>
+    <img src = "https://skillicons.dev/icons?i=cpp,html,css,kali,js,django,cloudflare,nginx,nodejs,figma,go"/>
   </a>
 </p>
 

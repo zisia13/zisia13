@@ -1,0 +1,6 @@
+# todo
+others: kali, njinx, nodejs
+todo: debian
+
+search on skillicons
+sort icons

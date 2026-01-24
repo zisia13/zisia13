@@ -1,6 +1,6 @@
 # todo
 others: kali, njinx, nodejs
-todo: debian
+todo: debian, GraphQL
 
 search on skillicons
 sort icons

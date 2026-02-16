@@ -1,4 +1,5 @@
 [![Discord](https://img.shields.io/badge/Discord%230000-black?style=for-the-badge&logo=discord)](https://discord.com/users/690956536121393243)
-[![Website](https://img.shields.io/badge/Website-black?style=for-the-badge&logo=Arc)](https://mcdb.zisia13.com)
+[![MCDB](https://img.shields.io/badge/MCDB-black?style=for-the-badge&logo=Arc)](https://mcdb.zisia13.com)
+[![LPR](https://img.shields.io/badge/LearnPython-black?style=for-the-badge&logo=Arc)](https://lpr.zisia13.com)
 [![Tools&Tech](https://img.shields.io/badge/Skills-black?style=for-the-badge&logo=GitHub)](./pages/skills.md)
 [![Stats](https://img.shields.io/badge/Stats-black?style=for-the-badge&logo=GitHub)](./pages/stats.md)
